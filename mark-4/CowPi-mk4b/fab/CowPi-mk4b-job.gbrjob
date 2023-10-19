@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "7.0.2-0"
     },
-    "CreationDate": "2023-09-13T20:52:31-05:00"
+    "CreationDate": "2023-10-11T20:45:18-05:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "CowPi-mk4a",
-      "GUID": "436f7750-692d-46d6-9b34-612e6b696361",
-      "Revision": "mk4a"
+      "Name": "CowPi-mk4b",
+      "GUID": "436f7750-692d-46d6-9b34-622e6b696361",
+      "Revision": "mk4b"
     },
     "Size": {
       "X": 185.52,
-      "Y": 75.03
+      "Y": 76.03
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -24,8 +24,8 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.2,
-      "PadToTrack": 0.2,
+      "PadToPad": 0.0,
+      "PadToTrack": 0.0,
       "TrackToTrack": 0.2,
       "MinLineWidth": 0.25,
       "TrackToRegion": 0.2,
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "CowPi-mk4a-F_Cu.gbr",
+      "Path": "CowPi-mk4b-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "CowPi-mk4a-B_Cu.gbr",
+      "Path": "CowPi-mk4b-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "CowPi-mk4a-F_Paste.gbr",
+      "Path": "CowPi-mk4b-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "CowPi-mk4a-B_Paste.gbr",
+      "Path": "CowPi-mk4b-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "CowPi-mk4a-F_Silkscreen.gbr",
+      "Path": "CowPi-mk4b-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "CowPi-mk4a-B_Silkscreen.gbr",
+      "Path": "CowPi-mk4b-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "CowPi-mk4a-F_Mask.gbr",
+      "Path": "CowPi-mk4b-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "CowPi-mk4a-B_Mask.gbr",
+      "Path": "CowPi-mk4b-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "CowPi-mk4a-Edge_Cuts.gbr",
+      "Path": "CowPi-mk4b-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
